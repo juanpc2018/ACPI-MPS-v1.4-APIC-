@@ -80,7 +80,7 @@ but is unknown if v1 or v2 has the same problem.
 
 USB seems much more realiable IF the CPU is fast enough.
 There is something seriously wrong with ACPI (MPS v1.4 (APIC))
-or with Windows.
+or with Windows or with Asus.
 
 ------
 
