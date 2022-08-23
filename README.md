@@ -1,5 +1,5 @@
 In theory:
-Intel ACPI contains MPS v1.4 Tables, and MPS v1.4 contain APIC.
+Intel ACPI contains MPS v1.4 Tables, and MPS v1.4 contains APIC.
 
 ACPI (MPS v1.4 (APIC))
 
@@ -11,16 +11,16 @@ IBM created an alternative method:
 https://en.wikipedia.org/wiki/OpenPIC_and_MPIC
 
 from years of installing different hardware, drivers, OS,
-i can tell that there is a serious problem with intel or Windows.
+i can tell that there is a serious problem with intel or Windows or Asus.
 
 Examples:
-XPsp3 + 975x Asus P5W DH Deluxe
-works Ok with HD6570 has 2500x1440
-Digi001 PCI 
+XPsp3 + 975x Asus P5W DH Deluxe, Q6600, ddr2
+works Ok with HD6570 has 2500x1440, 
+Digi001 PCI ASIO driver v6.4
 
 same HD6570 and Digi001, 
 same drivers,  
-same XPsp3 fails on msi X58 Eclipse sli board "Next Gen"
+same XPsp3 fails on msi X58 Eclipse sli board "Next Gen", x5687, ddr3
 
 Video does Not have 2500x14400 has less options,
 Digi001 has completely distorted Audio by the interrupts.
