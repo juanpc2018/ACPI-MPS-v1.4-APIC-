@@ -29,18 +29,18 @@ Digi001 has completely distorted Audio by the interrupts.
 
 other example:
 
-Lynx AES16 PCI driver v19g for W7, v20 for W8.1
-installs ok in W7,
-does Not install in W8.1 IF the board does Not have MPS1.4
-for example:
-Asus Rampage III Extreme fails,
-has "MPS Adbvanced"
+Lynx AES16 PCI driver v19g for W7, v20 for W8.1,
+
+Asus Rampage III Extreme installs ok in W7,
+but does Not install in W8.1, IF the board does Not have MPS1.4 in the Bios.,
+
+Asus Rampage III Extreme has "MPS Advanced"
 Win8.1 requires MPS1.4
 W7x64 works with MPS1.1
 
 but the strange thing is that same Asus R3E board, 
 using OSX SnowLeopard 10.6.6 + Bootloader,
-installs and works.
+Lynx AES16 installs and works ok.
 Apple claims they only use MPS1.4
 but that does Not make any sense.
 
