@@ -16,7 +16,7 @@ i can tell that there is a serious problem with intel or Windows or Asus.
 Examples:
 XPsp3 + 975x Asus P5W DH Deluxe, Q6600, ddr2
 works Ok with HD6570 has 2500x1440, 
-Digi001 PCI ASIO driver v6.4
+Digi001 PCI ASIO driver v6.4 work ok.
 
 same HD6570 and Digi001, 
 same drivers,  
