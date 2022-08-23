@@ -94,5 +94,9 @@ its all very strange.
 
 --------
 
+why care about PCI if Obsolete?
+why move forward without solving the problems of the past? makes No sense to me.
+like a building on moving snads.
+
 what other issues have you found?
 
