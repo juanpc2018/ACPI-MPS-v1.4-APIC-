@@ -85,7 +85,7 @@ or with Windows.
 ------
 
 another example:
-Sonnet has a 3x PCIe to Thunderbolt3 chassis,
+Sonnet has a 3x PCIe to Thunderbolt3/4 chassis,
 PCB has a small Switch to make some PCIe cards compatible.
 like Avid HDX PCIe require that switch.
 
