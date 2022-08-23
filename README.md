@@ -85,8 +85,8 @@ or with Windows or with Asus.
 ------
 
 another example:
-Sonnet has a 3x PCIe to Thunderbolt3/4 chassis,
-PCB has a small Switch to make some PCIe cards compatible.
+Sonnet Tech has a 3x PCIe to Thunderbolt3/4 chassis,
+Sonnet PCB has a small Switch to make some PCIe cards compatible.
 like Avid HDX PCIe require that switch.
 
 but other chassis like Razer X Core Chroma work ok, does Not have / Does Not require that switch.
