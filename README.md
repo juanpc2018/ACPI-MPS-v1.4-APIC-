@@ -49,9 +49,9 @@ and OSX SnowLeopard probably was 32-Bit mode.
 
 all very strage.
 
-ASRock works ok, Z370 Pro4
-ASUS fails, Rampage III Extreme X58
-MSI works ok, X58, Z270 PC Mate
+ASRock works ok, Z370 Pro4. 
+ASUS fails X58 Rampage III Extreme.
+MSI works ok X58 & Z270 PC Mate
 Gigabyte unknown.
 
 --------
@@ -62,11 +62,11 @@ same Lynx AES16, same OS W8.1,
 has misplaced buffer sizes,
 512 is 256, 256 is 128, 128 is 512, etc...
 
-if installed on AMD boards like:
+if installed on AMD server board like:
 Tyan S8232
 
-Buffer size can be detected measuring audio latency measuring Analog Input to Analog Output vs. direct path on a Oscilloscope,
-from a Y split signal coming from an Audio Signal Generator.
+Buffer size can be detected measuring audio latency, measuring Analog Input-ASIO-Analog Output vs. direct path on a Oscilloscope,
+from a Y split signal source from an Audio Signal Generator.
 
 ------
 
