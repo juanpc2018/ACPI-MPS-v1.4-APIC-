@@ -1,5 +1,5 @@
 In theory:
-Intel ACPI contains MPS v1.4 Tables, and MPS v1.4 tables contain APIC.
+Intel ACPI contains MPS v1.4 Tables, and MPS v1.4 contain APIC.
 
 ACPI (MPS v1.4 (APIC))
 
