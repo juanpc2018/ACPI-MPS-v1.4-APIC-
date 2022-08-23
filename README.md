@@ -38,11 +38,14 @@ has "MPS Adbvanced"
 Win8.1 requires MPS1.4
 W7x64 works with MPS1.1
 
-but the strange thing is that same Asus board, 
+but the strange thing is that same Asus R3E board, 
 using OSX SnowLeopard 10.6.6 + Bootloader,
 installs and works.
 Apple claims they only use MPS1.4
 but that does Not make any sense.
+
+The only difference i can think is that Windows8.1 was 64-Bit,
+and OSX SnowLeopard probably was 32-Bit mode.
 
 all very strage.
 
