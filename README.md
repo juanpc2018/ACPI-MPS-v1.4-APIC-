@@ -22,7 +22,7 @@ same HD6570 and Digi001,
 same drivers,  
 same XPsp3 fails on msi X58 Eclipse sli board "Next Gen", x5687, ddr3
 
-Video does Not have 2500x14400 has less options,
+Video does Not have 2500x1440 has less options,
 Digi001 has completely distorted Audio by the interrupts.
 
 ------
