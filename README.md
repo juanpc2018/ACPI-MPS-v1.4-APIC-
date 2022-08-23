@@ -63,7 +63,7 @@ has misplaced buffer sizes,
 512 is 256, 256 is 128, 128 is 512, etc...
 
 if installed on AMD server board like:
-Tyan S8232
+Tyan S8232 https://www.tyan.com/EN_Motherboards_S8232_S8232WGM4NR - https://www.tyan.com/Motherboards_S8232_S8232GM4NR
 
 Buffer size can be detected measuring audio latency, measuring Analog Input-ASIO-Analog Output vs. direct path on a Oscilloscope,
 from a Y split signal source from an Audio Signal Generator.
