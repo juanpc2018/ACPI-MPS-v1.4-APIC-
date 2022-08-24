@@ -30,12 +30,11 @@ Digi001 has completely distorted Audio by the interrupts.
 other example:
 
 Lynx AES16 PCI driver v19g for W7, v20 for W8.1,
-
-Asus Rampage III Extreme installs ok in W7,
+installs ok in W7,
 but does Not install in W8.1, IF the board does Not have MPS1.4 in the Bios.,
 
-Asus Rampage III Extreme has "MPS Advanced"
-Win8.1 requires MPS1.4
+Asus Rampage III Extreme has "MPS Advanced", 
+Win8.1 requires MPS1.4 </br>
 W7x64 works with MPS1.1
 
 but the strange thing is that same Asus R3E board, 
