@@ -93,9 +93,9 @@ its all very strange.
 
 --------
 
-why care about PCI if Obsolete?
+why care about PCI if Obsolete? </br>
 why move forward without solving the problems of the past? makes No sense to me.
-like a building on moving snads.
+like a building on moving sands.
 
 what other issues have you found?
 
